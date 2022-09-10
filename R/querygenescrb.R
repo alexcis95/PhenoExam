@@ -2850,7 +2850,7 @@ PhenoEnrichGenes = function(genes, database = "HPO", organism = "human", plotn=3
       getnamedb <- paste0("",db,"loadder")
       
       # Run the loadder
-      peaload <- get(getnamedb)(genes,organism = "mouse", plotnumber = plotn,  url = url)
+      peaload <- get(getnamedb)(genes,organism = "human", plotnumber = plotn,  url = url)
       
       # join data frames generated
       rbjoinhtml <- rbind(rbjoinhtml, peaload$htmltabla)
@@ -2986,7 +2986,7 @@ PhenoEnrichRandomOpt = function(genes,  database = "HPO", organism = "human"){
       getnamedb <- paste0("",db,"loadderOpt")
       
       # Run the loadder
-      peaload <- get(getnamedb)(genes,organism = "mouse", plotnumber = plotn)
+      peaload <- get(getnamedb)(genes,organism = "human", plotnumber = plotn)
       
       # join data frames generated
       rbjointri <- rbind(rbjointri, peaload)
@@ -3238,7 +3238,7 @@ PhenoEnrichCompare = function(geneset, genesetcompare, database = "HPO", organis
       getnamedb <- paste0("",db,"loaddercompare")
       
       # Run the loadder
-      peaload <- get(getnamedb)(onlygenes, genesetcompare,organism = "mouse", plotnumber = plotn, url = url)
+      peaload <- get(getnamedb)(onlygenes, genesetcompare,organism = "human", plotnumber = plotn, url = url)
       
       # join data frames generated
       rbjoinhtml <- rbind(rbjoinhtml, peaload$htmltabla)
@@ -5245,7 +5245,7 @@ PhenoEnrichCompareRandom = function(onlygenes, geneset, genesetcompare, database
       getnamedb <- paste0("",db,"loaddercompareOpt")
       
       # Run the loadder
-      peaload <- get(getnamedb)(onlygenes, genesetcompare,organism = "mouse", plotnumber = plotn)
+      peaload <- get(getnamedb)(onlygenes, genesetcompare,organism = "human", plotnumber = plotn)
       
       # join data frames generated
       rbjointri <- rbind(rbjointri, peaload)
