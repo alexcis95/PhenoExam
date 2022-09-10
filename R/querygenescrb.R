@@ -2218,11 +2218,11 @@ RandomComparePheno = function(geneset, genesetcompare,  organism = "human", data
     if (linux==T){
       cl <- makeForkCluster(nworkers)
       clusterEvalQ(cl, library(PhenoExam))
-      enrichrandomlist <- parApply(cl, genesRandom, 2, function(x) PhenoEnrichRandomOpt(x,database,organism))
-      enrichrandomlistg2 <- parApply(cl, genesRandomg2, 2, function(x) PhenoEnrichRandomOpt(x,database,organism))
+      enrichrandomlist <- parApply(cl, genesRandom, 2, function(x) PhenoEnrichRandomOpt(x,database,organism="human"))
+      enrichrandomlistg2 <- parApply(cl, genesRandomg2, 2, function(x) PhenoEnrichRandomOpt(x,database,organism="human"))
       stopCluster(cl)
-    }else{  enrichrandomlist <- apply(genesRandom, 2, function(x) PhenoEnrichRandomOpt(x,database,organism))
-    enrichrandomlistg2 <- apply(genesRandomg2, 2, function(x) PhenoEnrichRandomOpt(x,database,organism))}
+    }else{  enrichrandomlist <- apply(genesRandom, 2, function(x) PhenoEnrichRandomOpt(x,database,organism="human"))
+    enrichrandomlistg2 <- apply(genesRandomg2, 2, function(x) PhenoEnrichRandomOpt(x,database,organism="human"))}
     
     if (adjust == "bonferroni") {
       randomenrichrelevant <- lapply(enrichrandomlist, dplyr::filter, bonferroni_pvalue <= p.value)
@@ -2564,11 +2564,11 @@ RandomComparePheno = function(geneset, genesetcompare,  organism = "human", data
     if (linux==T){
       cl <- makeForkCluster(nworkers)
       clusterEvalQ(cl, library(PhenoExam))
-      enrichrandomlist <- parApply(cl, genesRandom, 2, function(x) PhenoEnrichCompareRandom(nonoverlapgenes, geneset, x, database,organism))
-      enrichrandomlistg2 <- parApply(cl, genesRandomg2, 2, function(x) PhenoEnrichCompareRandom(nonoverlapgenes, geneset, x,database,organism))
+      enrichrandomlist <- parApply(cl, genesRandom, 2, function(x) PhenoEnrichCompareRandom(nonoverlapgenes, geneset, x, database,organism="human"))
+      enrichrandomlistg2 <- parApply(cl, genesRandomg2, 2, function(x) PhenoEnrichCompareRandom(nonoverlapgenes, geneset, x,database,organism="human"))
       stopCluster(cl)
-    }else{  enrichrandomlist <- apply(genesRandom, 2, function(x) PhenoEnrichCompareRandom(nonoverlapgenes, geneset, x,database,organism))
-    enrichrandomlistg2 <- apply(genesRandomg2, 2, function(x) PhenoEnrichCompareRandom(nonoverlapgenes, geneset,x,database,organism))}
+    }else{  enrichrandomlist <- apply(genesRandom, 2, function(x) PhenoEnrichCompareRandom(nonoverlapgenes, geneset, x,database,organism="human"))
+    enrichrandomlistg2 <- apply(genesRandomg2, 2, function(x) PhenoEnrichCompareRandom(nonoverlapgenes, geneset,x,database,organism="human"))}
     
     
     
