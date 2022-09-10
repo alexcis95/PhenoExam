@@ -1,0 +1,56 @@
+term_id,term_name,genes_associated_in_db,source
+CRB:XXX,No CRB phenotype,12797,CRB
+CRB:0000022,Association with Survival No Antioxidants PSAP KO CRISPRi in Glutamatergic Neuron,2029,CRB
+CRB:0000046,Association with Survival CRISPRi in Glutamatergic Neuron,2023,CRB
+CRB:0000024,Negative hit with Survival No Antioxidants PSAP KO CRISPRi in Glutamatergic Neuron,1918,CRB
+CRB:0000048,Negative hit with Survival CRISPRi in Glutamatergic Neuron,1863,CRB
+CRB:0000028,Association with Survival PSAP KO CRISPRi in Glutamatergic Neuron,1678,CRB
+CRB:0000030,Negative hit with Survival PSAP KO CRISPRi in Glutamatergic Neuron,1616,CRB
+CRB:0000016,Association with Survival No Antioxidants CRISPRi in Glutamatergic Neuron,1528,CRB
+CRB:0000018,Negative hit with Survival No Antioxidants CRISPRi in Glutamatergic Neuron,1452,CRB
+CRB:0000007,Association with Peroxidized Lipids (Liperfluo Intensity) in Glutamatergic Neuron,1395,CRB
+CRB:0000031,Association with Reactive Oxygen Species (CellRox Intensity) in Glutamatergic Neuron,1246,CRB
+CRB:0000025,Association with Survival PSAP KO CRISPRa in Glutamatergic Neuron,1191,CRB
+CRB:0000019,Association with Survival No Antioxidants PSAP KO CRISPRa in Glutamatergic Neuron,1121,CRB
+CRB:0000043,Association with Survival CRISPRa in Glutamatergic Neuron,845,CRB
+CRB:0000009,Negative hit with Labile Iron (FeRhoNox Intensity) in Glutamatergic Neuron,807,CRB
+CRB:0000033,Negative hit with Reactive Oxygen Species (CellRox Intensity) in Glutamatergic Neuron,741,CRB
+CRB:0000027,Negative hit with Survival PSAP KO CRISPRa in Glutamatergic Neuron,718,CRB
+CRB:0000021,Negative hit with Survival No Antioxidants PSAP KO CRISPRa in Glutamatergic Neuron,700,CRB
+CRB:0000013,Association with Survival No Antioxidants CRISPRa in Glutamatergic Neuron,618,CRB
+CRB:0000008,Positive hit with Peroxidized Lipids (Liperfluo Intensity) in Glutamatergic Neuron,588,CRB
+CRB:0000032,Positive hit with Reactive Oxygen Species (CellRox Intensity) in Glutamatergic Neuron,505,CRB
+CRB:0000026,Positive hit with Survival PSAP KO CRISPRa in Glutamatergic Neuron,473,CRB
+CRB:0000045,Negative hit with Survival CRISPRa in Glutamatergic Neuron,454,CRB
+CRB:0000020,Positive hit with Survival No Antioxidants PSAP KO CRISPRa in Glutamatergic Neuron,421,CRB
+CRB:0000044,Positive hit with Survival CRISPRa in Glutamatergic Neuron,391,CRB
+CRB:0000015,Negative hit with Survival No Antioxidants CRISPRa in Glutamatergic Neuron,370,CRB
+CRB:0000010,Association with Lysosome (Lysotracker Intensity) in Glutamatergic Neuron,304,CRB
+CRB:0000004,Association with Labile Iron (FeRhoNox Intensity) in Glutamatergic Neuron,288,CRB
+CRB:0000052,Association with Proliferation (CFSE Staining) in T Cell,271,CRB
+CRB:0000014,Positive hit with Survival No Antioxidants CRISPRa in Glutamatergic Neuron,248,CRB
+CRB:0000049,Association with Survival CRISPRi in iPSC,238,CRB
+CRB:0000051,Negative hit with Survival CRISPRi in iPSC,228,CRB
+CRB:0000037,Association with Survival 21 Days CRISPRi in Glutamatergic Neuron,215,CRB
+CRB:0000039,Negative hit with Survival 21 Days CRISPRi in Glutamatergic Neuron,207,CRB
+CRB:0000054,Negative hit with Proliferation (CFSE Staining) in T Cell,201,CRB
+CRB:0000034,Association with Survival 14 Days CRISPRi in Glutamatergic Neuron,191,CRB
+CRB:0000005,Positive hit with Labile Iron (FeRhoNox Intensity) in Glutamatergic Neuron,186,CRB
+CRB:0000036,Negative hit with Survival 14 Days CRISPRi in Glutamatergic Neuron,183,CRB
+CRB:0000012,Negative hit with Lysosome (Lysotracker Intensity) in Glutamatergic Neuron,180,CRB
+CRB:0000047,Positive hit with Survival CRISPRi in Glutamatergic Neuron,160,CRB
+CRB:0000040,Association with Survival 28 Days CRISPRi in Glutamatergic Neuron,157,CRB
+CRB:0000042,Negative hit with Survival 28 Days CRISPRi in Glutamatergic Neuron,153,CRB
+CRB:0000011,Positive hit with Lysosome (Lysotracker Intensity) in Glutamatergic Neuron,124,CRB
+CRB:0000023,Positive hit with Survival No Antioxidants PSAP KO CRISPRi in Glutamatergic Neuron,111,CRB
+CRB:0000006,Negative hit with Labile Iron (FeRhoNox Intensity) in Glutamatergic Neuron,102,CRB
+CRB:0000017,Positive hit with Survival No Antioxidants CRISPRi in Glutamatergic Neuron,76,CRB
+CRB:0000053,Positive hit with Proliferation (CFSE Staining) in T Cell,70,CRB
+CRB:0000029,Positive hit with Survival PSAP KO CRISPRi in Glutamatergic Neuron,62,CRB
+CRB:0000050,Positive hit with Survival CRISPRi in iPSC,10,CRB
+CRB:0000035,Positive hit with Survival 14 Days CRISPRi in Glutamatergic Neuron,8,CRB
+CRB:0000038,Positive hit with Survival 21 Days CRISPRi in Glutamatergic Neuron,8,CRB
+CRB:0000001,Association with Expansion (CD34 Staining),4,CRB
+CRB:0000041,Positive hit with Survival 28 Days CRISPRi in Glutamatergic Neuron,4,CRB
+CRB:0000002,Positive hit with Expansion (CD34 Staining),3,CRB
+CRB:0000003,Negative hit with Expansion (CD34 Staining),1,CRB

@@ -1,0 +1,178 @@
+term_id,term_name,genes_associated_in_db,source
+CXXX,No diseases associated,19005,CGI
+C1319315,Adenocarcinoma of large intestine,46,CGI
+C0023467,"Leukemia, Myelocytic, Acute",42,CGI
+C0006142,Malignant neoplasm of breast,41,CGI
+C0496956,Neoplasm of uncertain or unknown behavior of breast,41,CGI
+C0678222,Breast Carcinoma,41,CGI
+C0858252,Breast adenocarcinoma,41,CGI
+C0025202,melanoma,38,CGI
+C0151779,Cutaneous Melanoma,38,CGI
+C0029925,Ovarian Carcinoma,29,CGI
+C0496920,Neoplasm of uncertain or unknown behavior of ovary,29,CGI
+C0919267,ovarian neoplasm,29,CGI
+C1140680,Malignant neoplasm of ovary,29,CGI
+C0017638,Glioma,23,CGI
+C0007131,Non-Small Cell Lung Carcinoma,22,CGI
+C0079744,Diffuse Large B-Cell Lymphoma,22,CGI
+C0007112,Adenocarcinoma of prostate,20,CGI
+C0476089,Endometrial Carcinoma,19,CGI
+C0007103,Malignant neoplasm of endometrium,18,CGI
+C0346191,Carcinoma in situ of endometrium,18,CGI
+C0024623,Malignant neoplasm of stomach,17,CGI
+C0153943,Benign neoplasm of stomach,17,CGI
+C0154060,Carcinoma in situ of stomach,17,CGI
+C0496905,Neoplasm of uncertain or unknown behavior of stomach,17,CGI
+C0699791,Stomach Carcinoma,17,CGI
+C1961099,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,16,CGI
+C0005684,Malignant neoplasm of urinary bladder,15,CGI
+C0005695,Bladder Neoplasm,15,CGI
+C0023434,Chronic Lymphocytic Leukemia,15,CGI
+C0024305,"Lymphoma, Non-Hodgkin",15,CGI
+C0152013,Adenocarcinoma of lung (disorder),15,CGI
+C0154017,Benign neoplasm of bladder,15,CGI
+C0154091,Carcinoma in situ of bladder,15,CGI
+C0496930,Neoplasm of uncertain or unknown behavior of bladder,15,CGI
+C0699885,Carcinoma of bladder,15,CGI
+C0235974,Pancreatic carcinoma,14,CGI
+C0023418,leukemia,13,CGI
+C0030297,Pancreatic Neoplasm,13,CGI
+C0242379,Malignant neoplasm of lung,13,CGI
+C0279702,Conventional (Clear Cell) Renal Cell Carcinoma,13,CGI
+C0346647,Malignant neoplasm of pancreas,13,CGI
+C0347284,Benign tumor of pancreas,13,CGI
+C0684249,Carcinoma of lung,13,CGI
+C1961102,Precursor Cell Lymphoblastic Leukemia Lymphoma,13,CGI
+C0007137,Squamous cell carcinoma,12,CGI
+C0549473,Thyroid carcinoma,12,CGI
+C0007117,Basal cell carcinoma,11,CGI
+C2239176,Liver carcinoma,11,CGI
+C0025149,Medulloblastoma,10,CGI
+C0278996,Malignant Head and Neck Neoplasm,10,CGI
+C3887461,Head and Neck Carcinoma,10,CGI
+C0026764,Multiple Myeloma,9,CGI
+C0699790,Colon Carcinoma,9,CGI
+C0023473,"Myeloid Leukemia, Chronic",8,CGI
+C1621958,Glioblastoma Multiforme,8,CGI
+C0035412,Rhabdomyosarcoma,7,CGI
+C0149782,Squamous cell carcinoma of lung,7,CGI
+C1168401,Squamous cell carcinoma of the head and neck,7,CGI
+C0025286,Meningioma,6,CGI
+C0027819,Neuroblastoma,6,CGI
+C0031511,Pheochromocytoma,6,CGI
+C0152018,Esophageal carcinoma,6,CGI
+C0153633,Malignant neoplasm of brain,6,CGI
+C0153942,Benign neoplasm of esophagus,6,CGI
+C0154059,Carcinoma in situ of esophagus,6,CGI
+C0546837,Malignant neoplasm of esophagus,6,CGI
+C0007115,Malignant neoplasm of thyroid,5,CGI
+C0019829,Hodgkin Disease,5,CGI
+C0022665,Kidney Neoplasm,5,CGI
+C0027019,Myelomonocytic leukemia,5,CGI
+C0040136,Thyroid Neoplasm,5,CGI
+C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",5,CGI
+C0740457,Malignant neoplasm of kidney,5,CGI
+C1378703,Renal carcinoma,5,CGI
+C0007847,Malignant tumor of cervix,4,CGI
+C0007873,Uterine Cervical Neoplasm,4,CGI
+C0018923,Hemangiosarcoma,4,CGI
+C0027708,Nephroblastoma,4,CGI
+C0029463,Osteosarcoma,4,CGI
+C0030421,Paraganglioma,4,CGI
+C0032000,Pituitary Adenoma,4,CGI
+C0206698,Cholangiocarcinoma,4,CGI
+C0262587,Parathyroid Adenoma,4,CGI
+C0278701,Gastric Adenocarcinoma,4,CGI
+C0302592,Cervix carcinoma,4,CGI
+C0851140,Carcinoma in situ of uterine cervix,4,CGI
+C1153706,Endometrial adenocarcinoma,4,CGI
+C3496549,Male Germ Cell Tumor,4,CGI
+C0005426,Biliary Tract Neoplasm,3,CGI
+C0007114,Malignant neoplasm of skin,3,CGI
+C0017636,Glioblastoma,3,CGI
+C0023827,liposarcoma,3,CGI
+C0024301,"Lymphoma, Follicular",3,CGI
+C0035335,Retinoblastoma,3,CGI
+C0205969,Thymic Carcinoma,3,CGI
+C0206624,Hepatoblastoma,3,CGI
+C0206667,Adrenal Cortical Adenoma,3,CGI
+C0220633,Uveal melanoma,3,CGI
+C0279626,Squamous cell carcinoma of esophagus,3,CGI
+C0346402,Malignant neoplasm of adrenal cortex,3,CGI
+C0585362,Squamous cell carcinoma of mouth,3,CGI
+C1292772,"Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative",3,CGI
+C1292778,Chronic myeloproliferative disorder,3,CGI
+C1328479,Pancreatic Endocrine Carcinoma,3,CGI
+C1332201,Adult Diffuse Large B-Cell Lymphoma,3,CGI
+C0001815,Primary Myelofibrosis,2,CGI
+C0006413,Burkitt Lymphoma,2,CGI
+C0023462,Acute Megakaryocytic Leukemias,2,CGI
+C0023487,Acute Promyelocytic Leukemia,2,CGI
+C0032463,Polycythemia Vera,2,CGI
+C0079218,"Fibromatosis, Aggressive",2,CGI
+C0149925,Small cell carcinoma of lung,2,CGI
+C0206682,Follicular thyroid carcinoma,2,CGI
+C0206724,Sex Cord-Stromal Tumor,2,CGI
+C0242647,Mucosa-Associated Lymphoid Tissue Lymphoma,2,CGI
+C0334579,Anaplastic astrocytoma,2,CGI
+C0334583,Pilocytic Astrocytoma,2,CGI
+C0348374,Malignant Central Nervous System Neoplasm,2,CGI
+C1332218,Adult Type Ovarian Granulosa Cell Tumor,2,CGI
+C1370419,Ovarian Granulosa Cell Tumor,2,CGI
+C1540912,Hypereosinophilic syndrome,2,CGI
+C1955861,T-Cell Large Granular Lymphocyte Leukemia,2,CGI
+C3544205,Ovarian clear cell carcinoma,2,CGI
+C0007113,Rectal Carcinoma,1,CGI
+C0007129,Merkel cell carcinoma,1,CGI
+C0007138,"Carcinoma, Transitional Cell",1,CGI
+C0019621,"Histiocytosis, Langerhans-Cell",1,CGI
+C0023443,Hairy Cell Leukemia,1,CGI
+C0023461,"Leukemia, Mast-Cell",1,CGI
+C0023481,Chronic Neutrophilic Leukemia,1,CGI
+C0024419,Waldenstrom Macroglobulinemia,1,CGI
+C0024899,Mastocytosis,1,CGI
+C0025500,Mesothelioma,1,CGI
+C0027149,Myxoma,1,CGI
+C0027809,Neurilemmoma,1,CGI
+C0039538,Teratoma,1,CGI
+C0079773,"Lymphoma, T-Cell, Cutaneous",1,CGI
+C0149978,Adenocarcinoma of rectum,1,CGI
+C0151468,Thyroid Gland Follicular Adenoma,1,CGI
+C0153594,Malignant neoplasm of testis,1,CGI
+C0154007,Benign neoplasm of testis,1,CGI
+C0206180,Ki-1+ Anaplastic Large Cell Lymphoma,1,CGI
+C0206644,"Histiocytoma, Benign Fibrous",1,CGI
+C0206669,Hepatocellular Adenoma,1,CGI
+C0206686,Adrenocortical carcinoma,1,CGI
+C0206692,"Carcinoma, Lobular",1,CGI
+C0206743,Rhabdoid Tumor,1,CGI
+C0221013,"Mastocytosis, Systemic",1,CGI
+C0238324,Ovarian Germ Cell Tumor,1,CGI
+C0238462,Medullary carcinoma of thyroid,1,CGI
+C0242363,Islet Cell Tumor,1,CGI
+C0278600,Childhood Brain Stem Glioma,1,CGI
+C0278622,Adult Malignant Peripheral Nerve Sheath Tumor,1,CGI
+C0279680,Transitional cell carcinoma of bladder,1,CGI
+C0279987,Childhood Malignant Peripheral Nerve Sheath Tumor,1,CGI
+C0280313,Squamous cell carcinoma of oropharynx,1,CGI
+C0280803,Primary central nervous system lymphoma,1,CGI
+C0281508,Desmoplastic Small Round Cell Tumor,1,CGI
+C0334121,Inflammatory Myofibroblastic Tumor,1,CGI
+C0338106,Adenocarcinoma of colon,1,CGI
+C0341823,Epithelial tumor of ovary,1,CGI
+C0345832,Neoplasm of small intestine,1,CGI
+C0346037,Acral Lentiginous Malignant Melanoma,1,CGI
+C0349566,Squamous cell carcinoma of tongue,1,CGI
+C0496924,Neoplasm of uncertain or unknown behavior of testis,1,CGI
+C0553580,Ewings sarcoma,1,CGI
+C0751690,Malignant Peripheral Nerve Sheath Tumor,1,CGI
+C0878675,Erdheim-Chester Disease,1,CGI
+C1266144,Pleuropulmonary blastoma,1,CGI
+C1266158,Nongerminomatous Germ Cell Tumor,1,CGI
+C1266177,Dysembryoplastic neuroepithelial tumor,1,CGI
+C1306837,Papillary Renal Cell Carcinoma,1,CGI
+C1336005,Small Intestinal Neuroendocrine Neoplasm,1,CGI
+C2145472,Urothelial Carcinoma,1,CGI
+C2212006,Small cell carcinoma of ovary,1,CGI
+C2363142,T-Cell Prolymphocytic Leukemia,1,CGI
+C3898222,mucosal melanoma,1,CGI

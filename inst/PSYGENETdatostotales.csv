@@ -1,0 +1,83 @@
+term_id,term_name,genes_associated_in_db,source
+CXXX,No diseases associated,18004,PSYGENET
+C0036341,Schizophrenia,713,PSYGENET
+C0005586,Bipolar Disorder,442,PSYGENET
+C0011581,Depressive disorder,269,PSYGENET
+C0001973,"Alcoholic Intoxication, Chronic",256,PSYGENET
+C0011570,Mental Depression,254,PSYGENET
+C0041696,Unipolar Depression,231,PSYGENET
+C1269683,Major Depressive Disorder,229,PSYGENET
+C0349204,Nonorganic psychosis,69,PSYGENET
+C0085762,Alcohol abuse,42,PSYGENET
+C0600427,Cocaine Dependence,36,PSYGENET
+C0001969,Alcoholic Intoxication,31,PSYGENET
+C0178417,Anhedonia,24,PSYGENET
+C0024809,Marijuana Abuse,20,PSYGENET
+C1839839,MAJOR AFFECTIVE DISORDER 2,17,PSYGENET
+C0085159,Seasonal Affective Disorder,16,PSYGENET
+C0009171,Cocaine Abuse,15,PSYGENET
+C0036337,Schizoaffective Disorder,15,PSYGENET
+C0015923,Fetal Alcohol Syndrome,13,PSYGENET
+C0036349,Paranoid Schizophrenia,12,PSYGENET
+C0338715,Drug-induced depressive state,12,PSYGENET
+C0001956,Alcohol Use Disorder,11,PSYGENET
+C0005587,"Depression, Bipolar",11,PSYGENET
+C0853193,Bipolar I disorder,11,PSYGENET
+C3496069,cocaine use,11,PSYGENET
+C0011206,Delirium,10,PSYGENET
+C0024517,"Major depression, single episode",9,PSYGENET
+C0221480,Recurrent depression,9,PSYGENET
+C0221765,Chronic schizophrenia,9,PSYGENET
+C0236663,Alcohol withdrawal syndrome,8,PSYGENET
+C0338831,Manic,8,PSYGENET
+C0006870,Cannabis Dependence,7,PSYGENET
+C0221074,"Depression, Postpartum",7,PSYGENET
+C0233477,Dysphoric mood,7,PSYGENET
+C0013415,Dysthymic Disorder,6,PSYGENET
+C0270458,Severe major depression with psychotic features,6,PSYGENET
+C0687132,heavy drinking,6,PSYGENET
+C2362914,clinical depression,6,PSYGENET
+C3160814,Cannabis use,6,PSYGENET
+C0011573,Endogenous depression,5,PSYGENET
+C0588008,Severe depression,5,PSYGENET
+C2063866,"Depressive Disorder, Treatment-Resistant",5,PSYGENET
+C0033937,"Psychoses, Drug",4,PSYGENET
+C0009178,Cocaine withdrawal,3,PSYGENET
+C0036939,Shared Paranoid Disorder,3,PSYGENET
+C0857501,Acute schizophrenia,3,PSYGENET
+C1306067,Drug-induced paranoid state,3,PSYGENET
+C1456784,Paranoia,3,PSYGENET
+C1656427,Early onset schizophrenia,3,PSYGENET
+C2939186,Disturbance in mood,3,PSYGENET
+C0085633,Mood swings,2,PSYGENET
+C0149821,ACUTE ALCOHOL WITHDRAWAL,2,PSYGENET
+C0220702,SCHIZOPHRENIA 1 (disorder),2,PSYGENET
+C0270496,"Schizoaffective disorder, bipolar type",2,PSYGENET
+C0338908,Mixed anxiety and depressive disorder,2,PSYGENET
+C0349217,"Depressive episode, unspecified",2,PSYGENET
+C0349218,Recurrent depressive disorder,2,PSYGENET
+C0349464,Wernicke-Korsakoff Syndrome,2,PSYGENET
+C0581391,Chronic depression,2,PSYGENET
+C1542327,Fetus or newborn affected by alcohol transmitted via placenta or breast milk,2,PSYGENET
+C1879677,Alcohol Toxicity,2,PSYGENET
+C3178803,Social Anhedonia,2,PSYGENET
+C0001957,Alcohol Withdrawal Delirium,1,PSYGENET
+C0024713,Manic Disorder,1,PSYGENET
+C0025193,Melancholia,1,PSYGENET
+C0036344,"Schizophrenia, Catatonic",1,PSYGENET
+C0036346,"Schizophrenia, Childhood",1,PSYGENET
+C0086133,Depressive Syndrome,1,PSYGENET
+C0154409,Recurrent major depressive episodes,1,PSYGENET
+C0236701,Cocaine-induced mood disorder,1,PSYGENET
+C0236788,Bipolar II disorder,1,PSYGENET
+C0349398,Paranoid delusion,1,PSYGENET
+C0394996,Acute alcoholic intoxication,1,PSYGENET
+C0573196,Overdose of cocaine,1,PSYGENET
+C0586323,Alcohol Withdrawal Seizures,1,PSYGENET
+C0588006,Mild depression,1,PSYGENET
+C0740858,Substance abuse problem,1,PSYGENET
+C1837893,SCHIZOPHRENIA 12,1,PSYGENET
+C1842605,SCHIZOPHRENIA 11,1,PSYGENET
+C3146244,Alcohol Related Birth Defect,1,PSYGENET
+C3544321,Treatment-resistant schizophrenia,1,PSYGENET
+C3826462,Depression in children,1,PSYGENET

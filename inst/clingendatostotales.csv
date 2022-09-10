@@ -1,0 +1,421 @@
+term_id,term_name,genes_associated_in_db,source
+CXXX,No diseases associated,18678,CLINGEN
+C3711374,Nonsyndromic Deafness,77,CLINGEN
+C0023264,Leigh Disease,36,CLINGEN
+C1838951,LEIGH SYNDROME DUE TO MITOCHONDRIAL COMPLEX I DEFICIENCY,36,CLINGEN
+C1850597,Leigh Syndrome Due To Mitochondrial Complex II Deficiency,36,CLINGEN
+C1850598,Leigh Syndrome due to Mitochondrial Complex III Deficiency,36,CLINGEN
+C1850599,Leigh Syndrome due to Mitochondrial Complex IV Deficiency,36,CLINGEN
+C1850600,Leigh Syndrome due to Mitochondrial Complex V Deficiency,36,CLINGEN
+C2931891,"Necrotizing encephalopathy, infantile subacute, of Leigh",36,CLINGEN
+C0007194,Hypertrophic Cardiomyopathy,31,CLINGEN
+C0346153,"Breast Cancer, Familial",24,CLINGEN
+C1708353,Hereditary Paraganglioma-Pheochromocytoma Syndrome,23,CLINGEN
+C4707243,Familial thoracic aortic aneurysm and aortic dissection,23,CLINGEN
+C1112155,Hereditary non-polyposis colorectal cancer syndrome,21,CLINGEN
+C1333990,Hereditary Nonpolyposis Colorectal Cancer,21,CLINGEN
+C0028326,Noonan Syndrome,20,CLINGEN
+C1142166,Brugada Syndrome (disorder),20,CLINGEN
+C0175704,LEOPARD Syndrome,19,CLINGEN
+C0587248,Costello syndrome (disorder),19,CLINGEN
+C1275081,Cardio-facio-cutaneous syndrome,19,CLINGEN
+C1333991,Hereditary Non-Polyposis Colon Cancer Type 2,19,CLINGEN
+C1843181,Noonan syndrome-like disorder with loose anagen hair,19,CLINGEN
+C3501846,Noonan-Like Syndrome With Loose Anagen Hair,19,CLINGEN
+C2936783,"Colorectal cancer, hereditary nonpolyposis, type 1",18,CLINGEN
+C3501611,"Mental Retardation, X-Linked Nonsyndromic",13,CLINGEN
+C0428908,Sinus Node Dysfunction (disorder),11,CLINGEN
+C1846647,"DEAFNESS, AUTOSOMAL RECESSIVE (disorder)",11,CLINGEN
+C2748542,"CARDIAC CONDUCTION DEFECT, NONSPECIFIC (disorder)",11,CLINGEN
+C4551804,Brugada Syndrome 1,11,CLINGEN
+C0796250,PARTINGTON X-LINKED MENTAL RETARDATION SYNDROME,6,CLINGEN
+C0393706,Early infantile epileptic encephalopathy with suppression bursts,5,CLINGEN
+C1568247,"Usher Syndrome, Type I",5,CLINGEN
+C1848638,"USHER SYNDROME, TYPE IB (disorder)",5,CLINGEN
+C1848639,"USHER SYNDROME, TYPE IA, FORMERLY",5,CLINGEN
+C1848640,"USHER SYNDROME, TYPE I, FRENCH VARIETY, FORMERLY",5,CLINGEN
+C3463992,"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 1",5,CLINGEN
+C4552072,X-linked infantile spasms,5,CLINGEN
+C0014544,Epilepsy,4,CLINGEN
+C0265325,Turcot syndrome (disorder),4,CLINGEN
+C4321324,Constitutional Mismatch Repair Deficiency Syndrome,4,CLINGEN
+C0265234,Branchio-Oto-Renal Syndrome,3,CLINGEN
+C0265253,Stickler syndrome (disorder),3,CLINGEN
+C0268596,Multiple Acyl Coenzyme A Dehydrogenase Deficiency,3,CLINGEN
+C0270972,Cornelia De Lange Syndrome,3,CLINGEN
+C0345893,Juvenile polyposis syndrome,3,CLINGEN
+C0452138,"Sensorineural hearing loss, bilateral",3,CLINGEN
+C1832940,JUVENILE POLYPOSIS OF STOMACH,3,CLINGEN
+C1852282,"DEAFNESS, AUTOSOMAL DOMINANT 1 (disorder)",3,CLINGEN
+C1868081,Juvenile Polyposis Coli,3,CLINGEN
+C4552100,Lynch Syndrome,3,CLINGEN
+C0003886,Arthrogryposis,2,CLINGEN
+C0004779,Basal Cell Nevus Syndrome,2,CLINGEN
+C0005129,Bernard-Soulier Syndrome,2,CLINGEN
+C0010691,Cystinuria,2,CLINGEN
+C0013903,Ellis-Van Creveld Syndrome,2,CLINGEN
+C0040015,Thrombasthenia,2,CLINGEN
+C0041341,Tuberous Sclerosis,2,CLINGEN
+C0043207,Wolfram Syndrome,2,CLINGEN
+C0079661,Klein's Syndrome,2,CLINGEN
+C0085413,"Polycystic Kidney, Autosomal Dominant",2,CLINGEN
+C0265338,Coffin-Siris syndrome,2,CLINGEN
+C0268600,3-methylcrotonyl CoA carboxylase 1 deficiency,2,CLINGEN
+C0685838,Gonadal dysgenesis XX type deafness,2,CLINGEN
+C0751748,Nonketotic Hyperglycinemia,2,CLINGEN
+C1847800,Waardenburg Syndrome Type 1,2,CLINGEN
+C1854465,TUBEROUS SCLEROSIS 1 (disorder),2,CLINGEN
+C3179349,Gastrointestinal Stromal Sarcoma,2,CLINGEN
+C3266898,Waardenburg Syndrome,2,CLINGEN
+C3888631,Monogenic diabetes,2,CLINGEN
+C0001080,Achondroplasia,1,CLINGEN
+C0002066,Alkaptonuria,1,CLINGEN
+C0002986,Fabry Disease,1,CLINGEN
+C0005859,Bloom Syndrome,1,CLINGEN
+C0008533,Hemophilia B,1,CLINGEN
+C0011436,Dentinogenesis Imperfecta,1,CLINGEN
+C0014548,"Epilepsy, Generalized",1,CLINGEN
+C0015306,Hereditary Multiple Exostoses,1,CLINGEN
+C0015503,Factor VII Deficiency,1,CLINGEN
+C0015519,Factor X Deficiency,1,CLINGEN
+C0015526,Factor XII Deficiency,1,CLINGEN
+C0016667,Fragile X Syndrome,1,CLINGEN
+C0016719,Friedreich Ataxia,1,CLINGEN
+C0017921,Glycogen storage disease type II,1,CLINGEN
+C0018425,Gyrate Atrophy,1,CLINGEN
+C0019069,Hemophilia A,1,CLINGEN
+C0019202,Hepatolenticular Degeneration,1,CLINGEN
+C0022387,Jervell-Lange Nielsen Syndrome,1,CLINGEN
+C0022716,Menkes Kinky Hair Syndrome,1,CLINGEN
+C0023374,Lesch-Nyhan Syndrome,1,CLINGEN
+C0023467,"Leukemia, Myelocytic, Acute",1,CLINGEN
+C0024776,Maple Syrup Urine Disease,1,CLINGEN
+C0024796,Marfan Syndrome,1,CLINGEN
+C0025149,Medulloblastoma,1,CLINGEN
+C0026705,Mucopolysaccharidosis II,1,CLINGEN
+C0027832,Neurofibromatosis 2,1,CLINGEN
+C0031269,Peutz-Jeghers Syndrome,1,CLINGEN
+C0032339,Rothmund-Thomson syndrome,1,CLINGEN
+C0035334,Retinitis Pigmentosa,1,CLINGEN
+C0035372,Rett Syndrome,1,CLINGEN
+C0035528,Riboflavin Deficiency,1,CLINGEN
+C0035934,Rubinstein-Taybi Syndrome,1,CLINGEN
+C0039445,Hereditary hemorrhagic telangiectasia,1,CLINGEN
+C0043119,Werner Syndrome,1,CLINGEN
+C0043194,Wiskott-Aldrich Syndrome,1,CLINGEN
+C0085110,Severe Combined Immunodeficiency,1,CLINGEN
+C0085390,Li-Fraumeni Syndrome,1,CLINGEN
+C0162309,Adrenoleukodystrophy,1,CLINGEN
+C0162361,Hidrotic Ectodermal Dysplasia,1,CLINGEN
+C0162635,Angelman Syndrome,1,CLINGEN
+C0175683,Citrullinemia,1,CLINGEN
+C0175694,Smith-Lemli-Opitz Syndrome,1,CLINGEN
+C0175695,Sotos' syndrome,1,CLINGEN
+C0175701,Aarskog syndrome,1,CLINGEN
+C0175709,Centronuclear myopathy,1,CLINGEN
+C0205711,Pelizaeus-Merzbacher Disease,1,CLINGEN
+C0206743,Rhabdoid Tumor,1,CLINGEN
+C0220687,KBG syndrome,1,CLINGEN
+C0220710,Medium-chain acyl-coenzyme A dehydrogenase deficiency,1,CLINGEN
+C0220711,Long chain acyl-CoA dehydrogenase deficiency,1,CLINGEN
+C0220754,Biotinidase Deficiency,1,CLINGEN
+C0265241,Franceschetti-Klein syndrome,1,CLINGEN
+C0265252,Coffin-Lowry syndrome,1,CLINGEN
+C0265265,Aase syndrome,1,CLINGEN
+C0265339,Borjeson-Forssman-Lehmann syndrome,1,CLINGEN
+C0265354,CHARGE Syndrome,1,CLINGEN
+C0265961,Erythrokeratodermia variabilis,1,CLINGEN
+C0265965,Dyskeratosis Congenita,1,CLINGEN
+C0266006,Pili torti-deafness syndrome,1,CLINGEN
+C0266526,Norrie disease,1,CLINGEN
+C0268135,"Xeroderma pigmentosum, group A",1,CLINGEN
+C0268136,"Xeroderma pigmentosum, group B",1,CLINGEN
+C0268138,"Xeroderma Pigmentosum, Complementation Group D",1,CLINGEN
+C0268140,"Xeroderma pigmentosum, group F",1,CLINGEN
+C0268141,"Xeroderma pigmentosum, group G",1,CLINGEN
+C0268193,NADH cytochrome B5 reductase deficiency,1,CLINGEN
+C0268338,"Ehlers-Danlos Syndrome, Type IV",1,CLINGEN
+C0268425,Alstrom Syndrome,1,CLINGEN
+C0268487,Tyrosine Transaminase Deficiency Disease,1,CLINGEN
+C0268490,"Tyrosinemia, Type I",1,CLINGEN
+C0268542,Ornithine carbamoyltransferase deficiency,1,CLINGEN
+C0268543,"Hyperammonemia, type III",1,CLINGEN
+C0268547,Argininosuccinic Aciduria,1,CLINGEN
+C0268553,Hyperlysinemias,1,CLINGEN
+C0268575,Isovaleryl-CoA dehydrogenase deficiency,1,CLINGEN
+C0268595,"Glutaric aciduria, type 1",1,CLINGEN
+C0268601,HMG CoA lyase deficiency,1,CLINGEN
+C0268616,Gamma-cystathionase deficiency,1,CLINGEN
+C0268621,Hepatic methionine adenosyltransferase deficiency,1,CLINGEN
+C0268623,"Tyrosinemia, Type III",1,CLINGEN
+C0268624,Sulfite oxidase deficiency,1,CLINGEN
+C0270853,Juvenile Myoclonic Epilepsy,1,CLINGEN
+C0271829,Pendred's syndrome,1,CLINGEN
+C0272170,Shwachman syndrome,1,CLINGEN
+C0272302,Gray Platelet Syndrome,1,CLINGEN
+C0272327,Hereditary factor X deficiency disease,1,CLINGEN
+C0282529,"Chondrodysplasia Punctata, Rhizomelic",1,CLINGEN
+C0339527,Leber Congenital Amaurosis,1,CLINGEN
+C0339534,Usher syndrome type 2,1,CLINGEN
+C0342727,"3-@METHYLGLUTACONIC ACIDURIA, TYPE I",1,CLINGEN
+C0342728,3-Methylglutaconic aciduria type 1,1,CLINGEN
+C0342738,Beta-Hydroxyisobutyryl CoA Deacylase Deficiency,1,CLINGEN
+C0342783,Deficiency of butyryl-CoA dehydrogenase,1,CLINGEN
+C0342788,Renal carnitine transport defect,1,CLINGEN
+C0342790,Carnitine palmitoyl transferase 2 deficiency,1,CLINGEN
+C0342791,Carnitine-Acylcarnitine Translocase Deficiency,1,CLINGEN
+C0342793,Malonic aciduria,1,CLINGEN
+C0345982,Multiple self-healing epithelioma of Ferguson-Smith,1,CLINGEN
+C0346010,Multiple fibrofolliculomas,1,CLINGEN
+C0398621,Hypoplasminogenemia,1,CLINGEN
+C0398641,Epstein syndrome (disorder),1,CLINGEN
+C0398746,Gluthathione synthetase deficiency,1,CLINGEN
+C0398791,Nijmegen Breakage Syndrome,1,CLINGEN
+C0403445,Fechtner syndrome (disorder),1,CLINGEN
+C0403554,"Renal Tubular Acidosis, Distal, with Progressive Nerve Deafness",1,CLINGEN
+C0406810,Carney Complex,1,CLINGEN
+C0410203,X-linked centronuclear myopathy,1,CLINGEN
+C0431693,Renal cysts and diabetes syndrome,1,CLINGEN
+C0454651,Specific language impairment,1,CLINGEN
+C0574080,Guanidinoacetate methyltransferase deficiency,1,CLINGEN
+C0751122,Infantile Severe Myoclonic Epilepsy,1,CLINGEN
+C0751157,FRAXE Syndrome,1,CLINGEN
+C0751202,Cystathionine beta-Synthase Deficiency Disease,1,CLINGEN
+C0751751,"Argininosuccinic Acid Synthetase Deficiency, Complete",1,CLINGEN
+C0751753,Carbamoyl-Phosphate Synthase I Deficiency Disease,1,CLINGEN
+C0795833,KLEEFSTRA SYNDROME 1,1,CLINGEN
+C0795864,Smith-Magenis syndrome,1,CLINGEN
+C0795889,Allan-Herndon-Dudley syndrome (AHDS),1,CLINGEN
+C0795905,Cantu syndrome,1,CLINGEN
+C0795953,MASA SYNDROME (disorder),1,CLINGEN
+C0796003,Juberg-Marsidi syndrome,1,CLINGEN
+C0796074,MOHR-TRANEBJAERG SYNDROME,1,CLINGEN
+C0796085,Nance-Horan syndrome,1,CLINGEN
+C0796113,"Nephroblastomatosis, fetal ascites, macrosomia and Wilms tumor",1,CLINGEN
+C0796135,Renpenning syndrome 1,1,CLINGEN
+C0796154,"SIMPSON-GOLABI-BEHMEL SYNDROME, TYPE 1",1,CLINGEN
+C0796160,"MENTAL RETARDATION, X-LINKED, SNYDER-ROBINSON TYPE",1,CLINGEN
+C0796195,Waisman syndrome,1,CLINGEN
+C0796206,Atkin syndrome,1,CLINGEN
+C0796241,"MENTAL RETARDATION, X-LINKED 34 (disorder)",1,CLINGEN
+C0796274,Brown-Vialetto-Van Laere Syndrome 1,1,CLINGEN
+C0878676,6-pyruvoyl-tetrahydropterin synthase deficiency,1,CLINGEN
+C0878677,Glycogen Storage Disease Type IIb,1,CLINGEN
+C0878684,SHORT syndrome,1,CLINGEN
+C1141890,Congenital long QT syndrome,1,CLINGEN
+C1260899,"Anemia, Diamond-Blackfan",1,CLINGEN
+C1266144,Pleuropulmonary blastoma,1,CLINGEN
+C1266184,Atypical Teratoid Rhabdoid Tumor,1,CLINGEN
+C1291230,3-Hydroxyacyl-CoA Dehydrogenase Deficiency,1,CLINGEN
+C1291607,Deficiency of maleylacetoacetate isomerase,1,CLINGEN
+C1306837,Papillary Renal Cell Carcinoma,1,CLINGEN
+C1321551,Shprintzen-Goldberg syndrome,1,CLINGEN
+C1334410,Localized Primitive Neuroectodermal Tumor,1,CLINGEN
+C1336078,"Papillary renal cell carcinoma, sporadic",1,CLINGEN
+C1510586,Autism Spectrum Disorders,1,CLINGEN
+C1527231,Adrenomyeloneuropathy,1,CLINGEN
+C1533587,Hydroxymethylglutaric aciduria,1,CLINGEN
+C1536500,Deficiency of acetyl-CoA acetyltransferase,1,CLINGEN
+C1567741,Alport Syndrome,1,CLINGEN
+C1568248,"Usher Syndrome, Type III",1,CLINGEN
+C1568249,"Usher Syndrome, Type II",1,CLINGEN
+C1704417,Hyperlipoproteinemia Type IIb,1,CLINGEN
+C1704981,Hyperparathyroidism-Jaw Tumor Syndrome,1,CLINGEN
+C1708349,Hereditary Diffuse Gastric Cancer,1,CLINGEN
+C1829703,Carnitine palmitoyl transferase 1A deficiency,1,CLINGEN
+C1832370,"MYOPATHY, MYOFIBRILLAR, DESMIN-RELATED",1,CLINGEN
+C1832388,"Platelet Disorder, Familial, with Associated Myeloid Malignancy",1,CLINGEN
+C1832529,HEREDITARY HEMORRHAGIC TELANGIECTASIA-RELATED PULMONARY ARTERIAL HYPERTENSION,1,CLINGEN
+C1832587,"POLYPOSIS SYNDROME, HEREDITARY MIXED, 1",1,CLINGEN
+C1832828,"Deafness, Autosomal Recessive 9",1,CLINGEN
+C1832978,"Deafness, Autosomal Recessive 7",1,CLINGEN
+C1834460,"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 10",1,CLINGEN
+C1834558,"Myopathy, Centronuclear, Autosomal Dominant",1,CLINGEN
+C1835817,"FANCONI ANEMIA, COMPLEMENTATION GROUP N",1,CLINGEN
+C1835854,"DEAFNESS, AUTOSOMAL RECESSIVE 68",1,CLINGEN
+C1836050,"Filaminopathy, autosomal dominant",1,CLINGEN
+C1836326,"Teratoid Tumor, Atypical",1,CLINGEN
+C1836327,RHABDOID TUMOR PREDISPOSITION SYNDROME 1 (disorder),1,CLINGEN
+C1836860,"FANCONI ANEMIA, COMPLEMENTATION GROUP J",1,CLINGEN
+C1836892,"MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 3",1,CLINGEN
+C1836906,"Arrhythmogenic Right Ventricular Dysplasia, Familial, 9",1,CLINGEN
+C1837315,"COLORECTAL CANCER, SUSCEPTIBILITY TO, 1",1,CLINGEN
+C1837750,Oligodontia-Colorectal Cancer Syndrome,1,CLINGEN
+C1837991,"Colorectal Adenomatous Polyposis, Autosomal Recessive",1,CLINGEN
+C1838163,OSLER-RENDU-WEBER SYNDROME 2,1,CLINGEN
+C1838359,"Diffuse palmoplantar keratoderma, Bothnian type",1,CLINGEN
+C1838440,ICHTHYOSIS EXFOLIATIVA,1,CLINGEN
+C1838457,"FANCONI ANEMIA, COMPLEMENTATION GROUP D1",1,CLINGEN
+C1838547,MELANOMA-PANCREATIC CANCER SYNDROME,1,CLINGEN
+C1839333,"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 2",1,CLINGEN
+C1840333,Barakat syndrome,1,CLINGEN
+C1842035,Giant Platelet Syndrome with Thrombocytopenia,1,CLINGEN
+C1845095,"DEAFNESS, X-LINKED 5 (disorder)",1,CLINGEN
+C1845861,"MENTAL RETARDATION, X-LINKED, WITH SHORT STATURE, HYPOGONADISM, AND ABNORMAL GAIT",1,CLINGEN
+C1846055,Siderius X-linked mental retardation syndrome,1,CLINGEN
+C1846174,"Mental Retardation, X-Linked 58",1,CLINGEN
+C1847501,Glut1 Deficiency Syndrome,1,CLINGEN
+C1847720,Hypermethioninemia due to deficiency of glycine N-methyltransferase,1,CLINGEN
+C1848410,"Xeroderma pigmentosum, variant type",1,CLINGEN
+C1848411,"XERODERMA PIGMENTOSUM, COMPLEMENTATION GROUP E",1,CLINGEN
+C1848488,Pierre Robin syndrome with fetal chondrodysplasia,1,CLINGEN
+C1848519,"WAARDENBURG SYNDROME, TYPE 4A",1,CLINGEN
+C1848561,Methylmalonic acidemia with homocystinuria,1,CLINGEN
+C1849386,"Myoglobinuria, Acute Recurrent, Autosomal Recessive",1,CLINGEN
+C1849508,"EPILEPSY, PYRIDOXINE-DEPENDENT",1,CLINGEN
+C1850343,Mosaic variegated aneuploidy syndrome 1,1,CLINGEN
+C1850569,Nemaline Myopathy 2,1,CLINGEN
+C1851413,"EXOSTOSES, MULTIPLE, TYPE II",1,CLINGEN
+C1852271,Auditory neuropathy,1,CLINGEN
+C1853144,"Deafness, Congenital, with Inner Ear Agenesis, Microtia, and Microdontia",1,CLINGEN
+C1853154,Nemaline Myopathy 7,1,CLINGEN
+C1853490,22q13.3 Deletion Syndrome,1,CLINGEN
+C1853892,Dimethylglycine Dehydrogenase Deficiency,1,CLINGEN
+C1854520,SEBASTIAN SYNDROME,1,CLINGEN
+C1855114,Methylmalonic Aciduria due to Methylmalonyl-CoA Mutase Deficiency,1,CLINGEN
+C1856058,"HOMOCYSTINURIA DUE TO DEFICIENCY OF N(5,10)-METHYLENETETRAHYDROFOLATE REDUCTASE ACTIVITY",1,CLINGEN
+C1856059,"Mthfr Deficiency, Thermolabile Type",1,CLINGEN
+C1856061,Methylenetetrahydrofolate reductase deficiency,1,CLINGEN
+C1856113,Mowat-Wilson syndrome,1,CLINGEN
+C1856796,Estren-Dameshek Variant of Fanconi Anemia,1,CLINGEN
+C1856797,Estren-Dameshek Variant of Fanconi Pancytopenia,1,CLINGEN
+C1857252,"2,4-Dienoyl-CoA Reductase Deficiency",1,CLINGEN
+C1857253,Dicarboxylicaminoaciduria,1,CLINGEN
+C1857728,Hereditary Angioedema Type III,1,CLINGEN
+C1857941,Brooke-Spiegler syndrome,1,CLINGEN
+C1858477,"Epilepsy, Partial, with Variable Foci",1,CLINGEN
+C1858695,Chudley-Mccullough syndrome,1,CLINGEN
+C1861171,THROMBOPHILIA DUE TO ACTIVATED PROTEIN C RESISTANCE (disorder),1,CLINGEN
+C1861185,THROMBOCYTOPENIA 2 (disorder),1,CLINGEN
+C1861194,"Thrombasthenia-Thrombocytopenia, Hereditary",1,CLINGEN
+C1861862,Familial Hypertrophic Cardiomyopathy Type 4,1,CLINGEN
+C1864910,"Glutamine deficiency, congenital",1,CLINGEN
+C1864912,2-Methylbutyryl-CoA Dehydrogenase Deficiency,1,CLINGEN
+C1864987,"Migraine, Familial Hemiplegic, 3",1,CLINGEN
+C1865270,"BARTTER SYNDROME, TYPE 4A",1,CLINGEN
+C1865926,"Infantile convulsions and paroxysmal choreoathetosis, familial (disorder)",1,CLINGEN
+C1867439,"Pterygium, Antecubital",1,CLINGEN
+C1959582,PTEN Hamartoma Tumor Syndrome,1,CLINGEN
+C1968741,Glycogen Storage Disease IIIC,1,CLINGEN
+C1968804,"Plasminogen Deficiency, Type I",1,CLINGEN
+C1968949,Cakut,1,CLINGEN
+C1969443,Trifunctional Protein Deficiency With Myopathy And Neuropathy,1,CLINGEN
+C1969621,"DEAFNESS, AUTOSOMAL RECESSIVE 63",1,CLINGEN
+C1969623,"NEUROFIBROMATOSIS, TYPE 1-LIKE SYNDROME",1,CLINGEN
+C1969809,Isobutyryl-CoA dehydrogenase deficiency,1,CLINGEN
+C1970173,"Acyl-CoA Dehydrogenase Family, Member 9, Deficiency of",1,CLINGEN
+C1970431,PITT-HOPKINS SYNDROME,1,CLINGEN
+C1970712,"Multiple Endocrine Neoplasia, Type IV",1,CLINGEN
+C1970827,Phosphoribosylpyrophosphate Synthetase Superactivity,1,CLINGEN
+C2607929,"Carney Complex, Type 1",1,CLINGEN
+C2673535,"DYSTONIA, DOPA-RESPONSIVE, WITH OR WITHOUT HYPERPHENYLALANINEMIA, AUTOSOMAL RECESSIVE (disorder)",1,CLINGEN
+C2675179,Arginine:Glycine Amidinotransferase Deficiency,1,CLINGEN
+C2675204,"Polyneuropathy, Hearing Loss, Ataxia, Retinitis Pigmentosa, And Cataract",1,CLINGEN
+C2675520,"BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 2",1,CLINGEN
+C2676676,"BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 1",1,CLINGEN
+C2676723,JERVELL AND LANGE-NIELSEN SYNDROME 2 (disorder),1,CLINGEN
+C2677491,"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 12",1,CLINGEN
+C2678065,Myofibrillar Myopathy,1,CLINGEN
+C2678194,"Mental Retardation, X-Linked, Syndromic, Christianson Type",1,CLINGEN
+C2678483,Long Qt Syndrome 11,1,CLINGEN
+C2697932,Loeys-Dietz Syndrome,1,CLINGEN
+C2700265,Waardenburg Syndrome Type 2,1,CLINGEN
+C2717750,Platelet alpha-Granule Deficiency,1,CLINGEN
+C2732267,Auditory neuropathy spectrum disorder,1,CLINGEN
+C2748536,"Leukocyte Adhesion Deficiency, Type III",1,CLINGEN
+C2750074,Rhabdoid Tumor Predisposition Syndrome 2,1,CLINGEN
+C2750081,Diamond-Blackfan Anemia 9,1,CLINGEN
+C2750405,"Malignant Rhabdoid Tumor, Somatic",1,CLINGEN
+C2750452,"Waardenburg Syndrome, Type 4c",1,CLINGEN
+C2750457,"Waardenburg Syndrome, Type 4b",1,CLINGEN
+C2750471,"COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 8",1,CLINGEN
+C2751532,3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,1,CLINGEN
+C2751681,"NEUROBLASTOMA, SUSCEPTIBILITY TO, 3",1,CLINGEN
+C2752147,"XERODERMA PIGMENTOSUM, COMPLEMENTATION GROUP C",1,CLINGEN
+C2829267,"DEAFNESS, AUTOSOMAL RECESSIVE 88",1,CLINGEN
+C2931213,"Usher syndrome, type 2C",1,CLINGEN
+C2931645,"Ochronosis, hereditary",1,CLINGEN
+C2931835,Hyperprolinemia type 2,1,CLINGEN
+C2931875,Albinism with hemorrhagic diathesis and pigmented reticuloendothelial cells,1,CLINGEN
+C2936904,"Opitz GBBB Syndrome, X-Linked",1,CLINGEN
+C3149117,"GLUT1 DEFICIENCY SYNDROME 1, AUTOSOMAL RECESSIVE",1,CLINGEN
+C3149841,POLYCYSTIC KIDNEY DISEASE 1,1,CLINGEN
+C3150653,"FANCONI ANEMIA, COMPLEMENTATION GROUP O",1,CLINGEN
+C3150923,MENTAL RETARDATION WITH LANGUAGE IMPAIRMENT AND AUTISTIC FEATURES,1,CLINGEN
+C3151058,S-adenosylhomocysteine hydrolase deficiency,1,CLINGEN
+C3151087,LOEYS-DIETZ SYNDROME 3,1,CLINGEN
+C3151264,"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 17",1,CLINGEN
+C3151267,"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 20",1,CLINGEN
+C3151441,"DYSKERATOSIS CONGENITA, AUTOSOMAL RECESSIVE 2",1,CLINGEN
+C3151781,CK syndrome,1,CLINGEN
+C3275464,"MENTAL RETARDATION, X-LINKED, SYNDROMIC, NASCIMENTO TYPE",1,CLINGEN
+C3279840,Methylmalonate Semialdehyde Dehydrogenase Deficiency,1,CLINGEN
+C3279843,MOSAIC VARIEGATED ANEUPLOIDY SYNDROME 2,1,CLINGEN
+C3280030,GATA2 Deficiency,1,CLINGEN
+C3280120,Glycoprotein VI deficiency,1,CLINGEN
+C3280358,"Wolfram-Like Syndrome, Autosomal Dominant",1,CLINGEN
+C3280492,TUMOR PREDISPOSITION SYNDROME,1,CLINGEN
+C3280679,"MYOPATHY, AREFLEXIA, RESPIRATORY DISTRESS, AND DYSPHAGIA, EARLY-ONSET",1,CLINGEN
+C3281235,BARAITSER-WINTER SYNDROME 2,1,CLINGEN
+C3468041,"FANCONI ANEMIA, COMPLEMENTATION GROUP C",1,CLINGEN
+C3469521,"FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)",1,CLINGEN
+C3469527,fanconi anemia complementation group g,1,CLINGEN
+C3494976,Migrating partial seizures in infancy,1,CLINGEN
+C3495552,Cystathionase Deficiency,1,CLINGEN
+C3502809,Generalized Epilepsy with Febrile Seizures Plus,1,CLINGEN
+C3552634,LYMPHOPROLIFERATIVE SYNDROME 1,1,CLINGEN
+C3553538,BROWN-VIALETTO-VAN LAERE SYNDROME 2,1,CLINGEN
+C3554018,SINOATRIAL NODE DYSFUNCTION AND DEAFNESS,1,CLINGEN
+C3554078,BRANCHED-CHAIN KETO ACID DEHYDROGENASE KINASE DEFICIENCY,1,CLINGEN
+C3554105,PERRAULT SYNDROME 2,1,CLINGEN
+C3554657,LISSENCEPHALY 5,1,CLINGEN
+C3711645,Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency,1,CLINGEN
+C3806275,DEAFNESS AND MYOPIA,1,CLINGEN
+C3806737,"DEAFNESS, X-LINKED 6",1,CLINGEN
+C3807295,"CEREBELLAR ATAXIA, DEAFNESS, AND NARCOLEPSY, AUTOSOMAL DOMINANT",1,CLINGEN
+C3808414,PERRAULT SYNDROME 3,1,CLINGEN
+C3808991,NGLY1 deficiency,1,CLINGEN
+C3809209,NEMALINE MYOPATHY 8,1,CLINGEN
+C3809299,CONE-ROD DYSTROPHY 18,1,CLINGEN
+C3809482,"MYOPIA 23, AUTOSOMAL RECESSIVE",1,CLINGEN
+C3809526,COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 17,1,CLINGEN
+C3809686,"MENTAL RETARDATION, AUTOSOMAL DOMINANT 21",1,CLINGEN
+C3809971,ASPARAGINE SYNTHETASE DEFICIENCY,1,CLINGEN
+C3810384,NEMALINE MYOPATHY 9,1,CLINGEN
+C3810404,"CARBONIC ANHYDRASE VA DEFICIENCY, HYPERAMMONEMIA DUE TO",1,CLINGEN
+C3887523,Very long chain acyl-CoA dehydrogenase deficiency,1,CLINGEN
+C3888316,"Hypercholesterolemia, familial, due to ligand-defective apolipoprotein B",1,CLINGEN
+C4014584,"BLEEDING DISORDER, PLATELET-TYPE, 18",1,CLINGEN
+C4014814,"MYOPATHY, CENTRONUCLEAR, 5",1,CLINGEN
+C4015360,NEMALINE MYOPATHY 10,1,CLINGEN
+C4053736,Catecholaminergic Polymorphic Ventricular Tachycardia Type 1,1,CLINGEN
+C4072872,obsolete Rod-cone dystrophy,1,CLINGEN
+C4084708,"DEAFNESS, AUTOSOMAL DOMINANT 40",1,CLINGEN
+C4225157,FAMILIAL ADENOMATOUS POLYPOSIS 3,1,CLINGEN
+C4225273,"SPONDYLOEPIPHYSEAL DYSPLASIA, STANESCU TYPE",1,CLINGEN
+C4225285,"KLIPPEL-FEIL SYNDROME 4, AUTOSOMAL RECESSIVE, WITH NEMALINE MYOPATHY AND FACIAL DYSMORPHISM",1,CLINGEN
+C4225297,ACHROMATOPSIA 7,1,CLINGEN
+C4225391,MITOCHONDRIAL SHORT-CHAIN ENOYL-CoA HYDRATASE 1 DEFICIENCY,1,CLINGEN
+C4274947,Multiple endocrine neoplasia type 4,1,CLINGEN
+C4277690,Ciliopathies,1,CLINGEN
+C4283893,"DEAFNESS, AUTOSOMAL DOMINANT 66",1,CLINGEN
+C4304400,X-linked hereditary sensory and autonomic neuropathy with deafness,1,CLINGEN
+C4310631,"EPIDERMOLYSIS BULLOSA SIMPLEX, GENERALIZED, WITH SCARRING AND HAIR LOSS",1,CLINGEN
+C4310645,"MYOPATHY, MYOFIBRILLAR, 8",1,CLINGEN
+C4310657,CONE-ROD DYSTROPHY AND HEARING LOSS,1,CLINGEN
+C4310714,SESSILE SERRATED POLYPOSIS CANCER SYNDROME,1,CLINGEN
+C4310719,FAMILIAL ADENOMATOUS POLYPOSIS 4,1,CLINGEN
+C4310775,"DEAFNESS, AUTOSOMAL DOMINANT 70",1,CLINGEN
+C4310822,LIPID STORAGE MYOPATHY DUE TO FLAVIN ADENINE DINUCLEOTIDE SYNTHETASE DEFICIENCY,1,CLINGEN
+C4321247,Mitochondrial DNA Depletion Syndrome 12,1,CLINGEN
+C4518338,Wolfram-like syndrome,1,CLINGEN
+C4520892,Otospondylomegaepiphyseal dysplasia,1,CLINGEN
+C4551859,RUBINSTEIN-TAYBI SYNDROME 1,1,CLINGEN
+C4551966,GLUT1 DEFICIENCY SYNDROME 1,1,CLINGEN
+C4551981,Familial Multiple Coagulation Factor Deficiency I,1,CLINGEN
+C4554406,"FANCONI ANEMIA, COMPLEMENTATION GROUP S",1,CLINGEN
+C4693498,LEBER CONGENITAL AMAUROSIS WITH EARLY-ONSET DEAFNESS,1,CLINGEN
+C4693974,"METHYLMALONIC ACIDURIA AND HOMOCYSTINURIA, cblC TYPE, DIGENIC",1,CLINGEN
+C4721769,Citrullinemia Type 1,1,CLINGEN
+C4747737,RETINITIS PIGMENTOSA 82 WITH OR WITHOUT SITUS INVERSUS,1,CLINGEN
+C4747922,PELGER-HUET ANOMALY WITH MILD SKELETAL ANOMALIES,1,CLINGEN

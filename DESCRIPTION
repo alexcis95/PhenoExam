@@ -1,0 +1,20 @@
+Package: PhenoExam
+Title: Compare the likeness of phenotypes terms between groups of genes
+Version: 0.1
+Authors: 
+    person(given = "Alejandro",
+           family = "Cisterna",
+           role = c("aut", "cre"),
+           email = "alejandro.cisterna@um.es",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+	person(given = "Juan",
+           family = "Botía",
+           role = c("aut", "cre")
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package provided diferents tools to compare the likeness of phenotypes terms between groups
+Depends: R (>= 3.3.2)
+Imports: readr, dplyr, data.table, ggplot2, stats, plotly, ggpubr, viridis
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
