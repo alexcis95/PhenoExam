@@ -56,7 +56,11 @@ pheatmap
 
 # PhenoExamWeb Shiny app  
 
-[PhenoExamWeb shiny app](https://snca.atica.um.es/PhenoExamWeb/)
+[PhenoExamWeb shiny app](https://snca.atica.um.es/PhenoExamWeb/) (Server/remote)
+
+If you want to use the shiny app in a local execution enviroment please download the [PhenoExamWeb.zip file](https://github.com/alexcis95/PhenoExam/blob/master/PhenoExamWeb.zip) and run the .rmd file in your machine. 
+
+Users have to download the zip file and run the rmd file to load the shiny app in a local execution environment.”
 
 # About  
 
