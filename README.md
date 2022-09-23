@@ -56,11 +56,10 @@ pheatmap
 
 # PhenoExamWeb Shiny app  
 
-[PhenoExamWeb shiny app](https://snca.atica.um.es/PhenoExamWeb/) (Server/remote)
+Instead using the shiny app [PhenoExamWeb shiny app](https://alejandrocisterna.shinyapps.io/phenoexamweb) it might be a better option to consider using the R package (https://github.com/alexcis95/PhenoExam) or the shiny app locally (https://github.com/alexcis95/PhenoExam/blob/master/PhenoExamWeb.zip) for heavy analyses. We recommend not to use the shiny app remotely if users want to perform a “comparator phenotype analysis” and the random test number (>40) because the shiny app server does not have enough RAM memory to run the analysis. 
 
 If you want to use the shiny app in a local execution enviroment please download the [PhenoExamWeb.zip file](https://github.com/alexcis95/PhenoExam/blob/master/PhenoExamWeb.zip) and run the .rmd file in your machine. 
 
-Users have to download the zip file and run the rmd file to load the shiny app in a local execution environment.”
 
 # About  
 
